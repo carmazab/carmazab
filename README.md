@@ -15,11 +15,7 @@
 
 🎓 &nbsp;Cornell PhD Astronomy & Space Sciences (2023). Field of study: computational astrophysics.\
 🌱 &nbsp;Currently **pursuing my next role** in Houston TX or remote US. I love working on challenging problems!\
-📈 &nbsp;I have worked as a buy-side quant analyst, R&D engineer, fintech developer, and teaching assistant.\
-✍️ &nbsp;In my free time, I enjoy to design databases, dashboards, and apps for my many pet analytics projects.\
-💬 &nbsp;Always happy to discuss about data, finance, education, algorithms, probabilities, and odd time signatures.\
-📧 &nbsp;Wanna talk? Do send me an email to my github username at gmail dot com! I'll respond within a couple of hours.
-
+📧 &nbsp;Want to chat? Do send me an email to my github username at gmail dot com! I'll respond within a couple of hours.
 
 <h3 align="center">I find pleasure in using many fantastic, open-source technologies including</h3>
 <p align="center">
@@ -43,6 +39,3 @@
 <img height="50" src="https://www.svgrepo.com/show/354139/opencv.svg">
 <img height="50" src="https://www.cvxpy.org/_static/cvxpy-wordmark-light.png">
 </p>
-
------
-Last Edited: August 2025
